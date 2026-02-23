@@ -6,6 +6,8 @@ Detect what technologies any website uses -- frameworks, CMS, analytics, CDNs, a
 
 **Live Demo:** [https://tech-detector.spider.cloud](https://tech-detector.spider.cloud)
 
+![Spider Tech Detector](./example.png)
+
 ## Features
 
 - Detect 50+ technology signatures across any website
